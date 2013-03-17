@@ -1,7 +1,7 @@
 Introduction
 ===========
 
-*AngryGIS** is an useless game for Android where player places in an interactive map "angry birds" and green pigs, that are attacked by the birds. 
+**AngryGIS** is an useless game for Android where player places in an interactive map "angry birds" and green pigs, that are attacked by the birds. 
 It consists of just an initial Proof-Of-Concepts using ArcGIS Runtime for Android, but you can find some samples of:
 * How to interact with Single-Tap and Long-Tap in the map
 * How to animate graphics in the map using a thread, like a tracking application
